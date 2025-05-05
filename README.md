@@ -1,13 +1,12 @@
 # 📘 JavaScript.info 精讀學習計畫 - 30 天筆記目錄
 
----
 
 ## 🔢 Day 1～5：JS 基礎語法與資料型別
 
 1. [Day 1 - JS 起手式與 Console 工具介紹](/ZogLp16EQkS2WzoLvRskJw)
 2. [Day 2 - 變數、型別、typeof 與動態語言特性](/7yI-rJ_ARW-Ok4kbyCf3Zg)
 3. [Day 3 - 型別轉換、比較與條件式](/_z90W4-jSHGEguRb0FoSeg)
-4. **流程控制：if, switch, loop**
+4. [Day 4 - 流程控制：if、switch、loop（流程控制）](/iX_ph7-FSqi1pXsFt0wuPw)
 5. **函式定義、函式表達式與箭頭函式**
 
 ---
