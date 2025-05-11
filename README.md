@@ -7,8 +7,8 @@
 2. [Day 2 - 變數、型別、typeof 與動態語言特性](/7yI-rJ_ARW-Ok4kbyCf3Zg)
 3. [Day 3 - 型別轉換、比較與條件式](/_z90W4-jSHGEguRb0FoSeg)
 4. [Day 4 - 流程控制：if、switch、loop（流程控制）](https://github.com/t020195444/javascript-notes/blob/main/Day4.md)
-5. **函式定義、函式表達式與箭頭函式**
-
+5. [Day 5 - 流程控制（二）：函式定義、表達式與箭頭函式](https://github.com/t020195444/javascript-notes/blob/main/Day5.md)
+   
 ---
 
 ## 🔠 Day 6～10：進階函式與作用域
