@@ -3,9 +3,9 @@
 
 ## 🔢 Day 1～5：JS 基礎語法與資料型別
 
-1. [Day 1 - JS 起手式與 Console 工具介紹](/ZogLp16EQkS2WzoLvRskJw)
-2. [Day 2 - 變數、型別、typeof 與動態語言特性](/7yI-rJ_ARW-Ok4kbyCf3Zg)
-3. [Day 3 - 型別轉換、比較與條件式](/_z90W4-jSHGEguRb0FoSeg)
+1. [Day 1 - JS 起手式與 Console 工具介紹](https://github.com/t020195444/javascript-notes/blob/main/Day1.md)
+2. [Day 2 - 變數、型別、typeof 與動態語言特性](https://github.com/t020195444/javascript-notes/blob/main/Day2.md)
+3. [Day 3 - 型別轉換、比較與條件式](https://github.com/t020195444/javascript-notes/blob/main/Day3.md)
 4. [Day 4 - 流程控制：if、switch、loop（流程控制）](https://github.com/t020195444/javascript-notes/blob/main/Day4.md)
 5. [Day 5 - 流程控制（二）：函式定義、表達式與箭頭函式](https://github.com/t020195444/javascript-notes/blob/main/Day5.md)
    
